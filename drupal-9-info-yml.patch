@@ -1,0 +1,10 @@
+diff --git a/entity_extra.info.yml b/entity_extra.info.yml
+index 326828f..f63721d 100644
+--- a/entity_extra.info.yml
++++ b/entity_extra.info.yml
+@@ -2,4 +2,4 @@ name: Entity Extra
+ description: Entity enhancements to be used by developers when creating custom entities.
+ package: Entity
+ type: module
+-core: 8.x
++core_version_requirement: ^8 || ^9
